@@ -1,0 +1,22 @@
+# Ignore image files
+downloaded_images/
+downloaded_imagesalls/
+ebayimage/
+*.png
+
+# Ignore spreadsheets and CSVs
+
+
+# Ignore Python cache and editor/OS junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Ignore logs or temp files
+*.log
+*.tmp
+
+.idea/
+.vscode/
+.venv
